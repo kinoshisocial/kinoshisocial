@@ -1,6 +1,6 @@
-<h2 align="center">TEKASHİ HERE! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
+<h2 align="center">Kinoshi here <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
 
-  <img src="https://komarev.com/ghpvc/?username=tekashix0s&label=Ziyaretçi%20Sayısı&color=552b75" alt="tekashix0" />
+  <img src="https://komarev.com/ghpvc/?username=tekashix0s&label=Ziyaretçi%20Sayısı&color=552b75" alt="kinoshi" />
   
 ```js
 class Tekashi {
