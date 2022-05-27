@@ -7,8 +7,8 @@ class Tekashi {
   constructor(...options) {
     this.name = "Saner"
     this.nicknames = "Kinoshi"
-    this.height = "1.74"
-    this.weight = "74"
+    this.height = "1.75"
+    this.weight = "77"
     this.type = "human"
     this.job = "student"
     this.sex = "male"
