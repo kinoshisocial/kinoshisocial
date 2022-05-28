@@ -14,7 +14,6 @@ class Tekashi {
     this.sex = "male"
     this.instagram = "kinoshisocial"
     this.discord = "Kinoshi#0017"
-    this.softwarelanguages = [ "Node.JS", "Python", "JavaScript" ]
   }
 }
 ```
