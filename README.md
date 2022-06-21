@@ -10,18 +10,6 @@
 
 <div align="center">
 
- <div>
-  <p align="center">
-   Contact links: 
-    <a href="" target="_blank"><img src="" width="30px" heigth= "30px" /></a>
-    <a href="" target="_blank"><img src="" width="30px" heigth= "30px" /></a>
-    <a href="" target="_blank"><img src="" width="30px" heigth= "30px" /></a>
-    <a href="" target="_blank"><img src="" width="30px" heigth= "30px" /></a>
-    <a href="https://www.reddit.com/user/Tantoony" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/apps-8/64/reddit-apps-platform-512.png" width="30px" heigth= "30px" /></a>
-    <a href="https://stackoverflow.com/users/15467316/tantoony?tab=profile" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/apps-8/64/stack-overflow-stackoverflow-apps-platform-512.png" width="30px" heigth= "30px" /></a>
-    <a href="https://open.spotify.com/user/bsa431plyu8hiphpc0ggbsa25" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/apps-8/64/spotify-apps-platform-512.png" width="30px" heigth= "30px" /></a>
-    <a href="" target="_blank"><img src="" width="30px" heigth= "30px" /></a>
-</div>
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=bsa431plyu8hiphpc0ggbsa25&cover_image=true&theme=default" />
  
 </div>
