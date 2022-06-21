@@ -1,4 +1,4 @@
-<h2 align="center bold">Kinoshi here </h2>
+<h2 align="center">Kinoshi here </h2>
 
   <img src="https://komarev.com/ghpvc/?username=tekashix0s&label=Ziyaretçi%20Sayısı&color=552b75" alt="kinoshi" />
  
