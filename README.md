@@ -10,6 +10,6 @@
 
 <div align="center">
 
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=bsa431plyu8hiphpc0ggbsa25&cover_image=true&theme=default" />
+  <img src="spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dynczr62p22jtdfo3xcbxlweby&cover_image=true&theme=default" />
  
 </div>
