@@ -6,7 +6,7 @@
 | Ziyaretçi sayısı:					|	![counter](https://profile-counter.glitch.me/%7Bkinoshisocial%7D/count.svg)
 | İletişim:        | [![discord](https://cdn1.iconfinder.com/data/icons/apps-8/64/discord-apps-platform-24.png)](https://discord.com/users/988603315703119903) [![instagram](https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-22.png)](https://instagram.com/kinoshistaken)  |
   
-[https://spotify-github-profile.vercel.app/api/view?uid=31dynczr62p22jtdfo3xcbxlweby&cover_image=true&theme=novatorem&bar_color=04ff00&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dynczr62p22jtdfo3xcbxlweby&cover_image=true&theme=novatorem&bar_color_cover=true&bar_color=53b14f)](https://github.com/kittinan/spotify-github-profile)
 
 
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31dynczr62p22jtdfo3xcbxlweby&cover_image=true&theme=novatorem&bar_color=04ff00&bar_color_cover=true" />
