@@ -8,8 +8,6 @@
   
 
 
-<div align="center">
 
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=31dynczr62p22jtdfo3xcbxlweby&cover_image=true&theme=novatorem&bar_color=04ff00&bar_color_cover=true" />
  
-</div>
